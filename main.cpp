@@ -1,7 +1,7 @@
 /***********************************************************
 Application    : Password Retriever                         
-Author(s)      : JaydenSavarinat & YashasShah               
-Version        : 1.0                                        
+Author(s)      : G0D-Developer & YashasDDev               
+Version        : 3.4                                      
 Copyright      : © 2021 G0D-Developer & YashasDDev        
 Description    : Retrieve Passwords & Make New Ones         
 ***********************************************************/
